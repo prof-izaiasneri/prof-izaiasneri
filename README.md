@@ -1,3 +1,5 @@
+prof.izaiasneri@gmail.com
+
 # 👋 Olá, eu sou Izaias Neri!
 
 Sou **professor de Matemática** apaixonado por tecnologia e ensino inovador. Tenho ampla experiência na área acadêmica e utilizo metodologias ativas e ferramentas tecnológicas para potencializar a aprendizagem.
